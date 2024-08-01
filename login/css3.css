@@ -1,0 +1,163 @@
+.bg{
+    background-image: url(image3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.navidict{
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+
+}
+.navi{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-attachment: fixed;
+}
+
+
+li{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+    
+    
+}
+
+li a{
+    color:cornsilk;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 25px;
+    text-decoration: none;
+    
+    
+    
+}
+.butt{
+    background-color:rgb(223, 220, 220);
+    margin-left: 10px;
+    border-radius: 12px;
+    padding: 3px 10px;
+
+}
+button:hover{
+    background: fixed;
+    background-color: rgb(135, 140, 141);
+
+}
+.log{
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+
+
+.container{
+    margin-right:50px;
+    text-align: center;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 150px;
+  }
+
+
+  .wrap{
+    position: relative;
+  width: 400px;
+  height: 440px;
+  background: transparent;
+  border: 2px solid rgba(255, 255,255, 0.5);
+  border-radius: 20px;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  transform: scale(1);
+  transition:  height .2s ease;
+  margin-left: 500px;
+  text-align: center; 
+  margin-top: 100px;
+  }
+
+
+  h1{
+    color: #FEFDED;
+    margin-left: 130px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    
+  }
+
+  label{
+    color: bisque;
+    margin-left: 0px;
+  }
+
+  #sub{
+    margin-left:30px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 20px;
+    border-radius:3px;
+    background-color: whitesmoke;
+     } 
+  .subject{
+    margin-right:none;
+    margin-left: 30px;
+    margin-bottom: 50px;
+  }
+
+
+     a{
+
+     
+        color: bisque;
+        text-decoration: none;
+        margin-left:15px;
+     }
+     .reg{
+        margin-left:0;
+        color:whitesmoke;
+        margin-left: 10px;
+     }
+     .regi{
+        margin-left: 30px;
+     }
+
+     .button-sub{
+        margin-top: 20px;
+        border-radius: 20px;
+         padding:2px 7px ;
+        color: rgb(15, 11, 11);
+        margin-left: 30px;
+        background-color: rgb(241, 224, 192);
+        width: 100%;
+        height: 3opx;
+     }
+
+        .button-sub:hover{
+            background-color: rgba(232, 141, 141, 0.911)
+
+        }
+        p{
+            color: aliceblue;
+        }
+
+     

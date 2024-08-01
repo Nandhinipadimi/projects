@@ -1,0 +1,81 @@
+
+
+
+
+
+.bg{
+    background-image:  url(nature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+.navbar{
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-style: bold;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 40px;
+margin-left: 90px;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+li a{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 25px;
+    text-decoration: none;
+}
+
+.content{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 0%;
+    padding: 0px 10px;
+}
+.mess{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 15.5px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:0px;
+    padding-top: 0%;
+
+}
+
+  
+.butt{
+    text-align: center;
+    border: none;
+    color: rgb(2, 5, 7);
+    border-radius: 12px;
+    white-space: 60px;
+    padding: 5px 10px;
+    
+    
+    
+}

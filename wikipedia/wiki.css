@@ -1,0 +1,54 @@
+*
+{
+    margin:0%;
+    padding:0;
+
+}
+body{
+    max-width:600px;
+    width:100%;
+    margin:auto;
+}
+nav span{
+    margin-left: 20px;
+}
+.art{
+    border-bottom: 2px solid black;
+}
+nav{
+    padding:5px;
+    border-bottom: 1px solid gray;
+}
+header{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid gray;
+}
+.name{
+    margin-left: 20px;
+}
+.img-content{
+    float: right;
+    margin:20px;
+    
+
+}
+section p{
+    margin:5px;
+    padding:5px;
+}
+.app h4{
+    margin-left: 9px;
+
+}
+.app h3{
+    font-size: 23px;
+    border-bottom: 1px solid gray;
+    
+    padding:5px;
+}
+.vinc-img{
+    border:1px solid gray;
+    float: right;
+}
